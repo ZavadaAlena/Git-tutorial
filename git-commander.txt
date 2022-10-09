@@ -1,4 +1,5 @@
-Для ініціалізації репозиторія – git init 
+﻿Для ініціалізації репозиторія – git init 
 Щоб зрозуміти статус репозиторія на даний момент – git status
 Щоб додати файл у staging arial команда git add “file name”
 // commit from another developer 
+Для того щоб створити новий branch з того на якому ми знаходимось – git checkout –b “name”
